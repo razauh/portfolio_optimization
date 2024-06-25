@@ -42,6 +42,6 @@ This project is open-sourced under the MIT license.
 
 ## Acknowledgements
 
-The implementation is based on the research **Enhancing Portfolio Performance: A Random Forest Approach to Volatility Prediction and Optimization**
+The implementation is based on the research paper **Enhancing Portfolio Performance: A Random Forest Approach to Volatility Prediction and Optimization**
 conducted by **Vedant Rathi, Meghana Kshirsagar, and Conor Ryan from the University of Limerick, Ireland**. Their insights into using machine learning for financial optimizations have been invaluable.
 
